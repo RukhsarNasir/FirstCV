@@ -1,0 +1,71 @@
+body{
+    font-family: Arial, sans-serif;
+    line-height: 1;
+    margin: 0;
+    padding: 0;
+   
+}
+.login{
+    height: 700px;
+    width: 600px;
+    margin: 100px auto;
+     padding: 40px 50px 40px 50px ;
+    background-color: rgb(149, 144, 144);
+    box-shadow: 0 0 20px rgb(0, 0, 0);
+    background-image: url(back.jpg);
+    background-size: cover;
+    color: white;
+    border-radius: 40px;
+    font-family: 'Times New Roman', Times, serif;
+   
+    
+   }
+   .login h1{
+    margin-bottom: 100px;
+    
+
+   } 
+    
+ label{
+    font: 1em sans-serif;
+    font-weight: bold;
+   color: rgb(55, 53, 53);
+   
+ }
+
+   
+
+
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 20px 20px 30px 12px;
+    /* margin-top: 50px; */
+    /* margin: 8px 0; */
+    display: inline-block;
+    border: 0px solid rgb(50, 49,49);
+    box-sizing: border-box;
+    border-radius: 40px;
+    margin-bottom: 50px;
+    background-color: rgb(55, 53, 53);
+    background-color: rgba(55, 53, 53, 0.744);
+    color: white; 
+    
+}
+button {
+    background-color: #0444aae9;
+    color: white;
+    padding: 20px 20px 30px 12px;
+    margin: 10px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    border-radius: 40px;
+    font-size: larger;
+    font-weight: bold;
+    margin-bottom: 70px;
+   
+    
+    
+  }
+
+
